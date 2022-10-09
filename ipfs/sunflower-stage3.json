@@ -1,0 +1,11 @@
+{
+    "name": "Sunflower",
+    "description": "It stands against the high wind, without bending, without crying, its purpose has been fullfiled.",
+    "image": "https://ipfs.io/ipfs/QmYvny23nyt5XvBJaU8i9rXZ8ZF1TjEi51riGfZbpHSUao/sunflower-stage3.jpeg",
+    "attributes": [
+        { 
+            "trait-type": "Where it shines",
+            "value": "Sunflower"
+        }
+    ]
+  }

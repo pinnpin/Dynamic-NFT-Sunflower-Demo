@@ -1,0 +1,11 @@
+{
+    "name": "Seed",
+    "description": "Who came first, the seed or the sunflower?",
+    "image": "https://ipfs.io/ipfs/QmYvny23nyt5XvBJaU8i9rXZ8ZF1TjEi51riGfZbpHSUao/sunflower-stage1.jpeg",
+    "attributes": [
+        { 
+            "trait-type": "Where it begins",
+            "value": "Seed"
+        }
+    ]
+  }

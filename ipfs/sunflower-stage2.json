@@ -1,0 +1,11 @@
+{
+    "name": "Seedling",
+    "description": "The dirt is moving, something has found its way out of the darkness.",
+    "image": "https://ipfs.io/ipfs/QmYvny23nyt5XvBJaU8i9rXZ8ZF1TjEi51riGfZbpHSUao/sunflower-stage2.jpeg",
+    "attributes": [
+        { 
+            "trait-type": "Where it grows",
+            "value": "Seedling"
+        }
+    ]
+  }
